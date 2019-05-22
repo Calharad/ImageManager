@@ -1,0 +1,9 @@
+#background {
+    -fx-background-color: black;
+
+}
+
+#previous_button, #next_button {
+    -fx-background-color: black;
+
+}
